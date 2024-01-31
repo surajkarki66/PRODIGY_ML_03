@@ -19,6 +19,6 @@ Implement a support vector machine (SVM) to classify images of cats and dogs fro
    ```
 
 Demo
-
+![Screenshot from 31-01-24 03:28:27](https://github.com/surajkarki66/PRODIGY_ML_03/assets/50628520/7f4cbc1d-3b0a-43c0-b25a-498f07591b0b) 
 
 Happy coding!
