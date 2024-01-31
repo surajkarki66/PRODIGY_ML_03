@@ -1,0 +1,6 @@
+numpy
+requests
+Pillow
+python-resize-image
+scikit-image
+scikit-learn==1.4.0
